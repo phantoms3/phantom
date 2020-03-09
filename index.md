@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+สวัสดีครับ เริ่มต้นใช้งานการสร้างเว็บ
+
 You can use the [editor on GitHub](https://github.com/phantoms3/phantom/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
