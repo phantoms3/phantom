@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-สวัสดีครับ เริ่มต้นใช้งานการสร้างเว็บ
+<Header 1>สวัสดีครับ เริ่มต้นใช้งานการสร้างเว็บ </Header 1>
 
 You can use the [editor on GitHub](https://github.com/phantoms3/phantom/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
