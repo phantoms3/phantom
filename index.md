@@ -1,6 +1,10 @@
 ## Welcome to GitHub Pages
 
 <B>สวัสดีครับ เริ่มต้นใช้งานการสร้างเว็บ </B>
+ใช้งานเว็บครั้งที่ 1
+แก้ไข ครั้งที่ 1
+
+<table> <tr><td>ตารางที่ 1</td></tr> </table>
 
 You can use the [editor on GitHub](https://github.com/phantoms3/phantom/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
